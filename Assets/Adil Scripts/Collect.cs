@@ -4,7 +4,7 @@ public class Collect : MonoBehaviour
 {
     private bool playerInZone = false; 
     public GameObject page;          
-    private bool isCollected = false; 
+    //private bool isCollected = false; 
 
     private void Start()
     {
